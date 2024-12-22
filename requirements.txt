@@ -3,3 +3,5 @@ pandas
 numpy
 ipykernel
 matplotlib
+seaborn
+flask
